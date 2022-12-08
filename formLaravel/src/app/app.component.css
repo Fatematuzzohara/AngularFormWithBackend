@@ -1,0 +1,121 @@
+.top{
+  background-color: #739F3C;
+   padding: 10px 10px 5px 1px;
+   color: white;
+   font-size: large;
+   display: flex;
+   align-items: center;
+   gap: 3rem;
+  
+  }
+  .homeTop{
+    background-color: #739F3C;
+    padding: 10px 10px 5px 1px;
+     color: white;
+     font-size: large;
+     display: flex;
+     align-items: center;
+     gap: 45rem;
+     font-weight: 1000;
+     text-align: center;
+    
+    }
+  .material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48,
+  
+  }
+  .icon{
+     margin-left: 25px;
+      background-color:white;
+      padding: 5px 0px;
+      border-radius: 100%;
+      width: 100%;
+      color: #739F3C;
+      text-align: center;
+  
+  }
+   .parent{      /*  for row */
+     
+      width: 100%;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+  }
+  .child{        /*  for row */
+      width: 50%;
+     }
+  
+  .mat-form-field {
+       width: 90%; 
+      position:initial;
+      margin-top: 0%;
+      margin-left: 0%;
+      margin-right: 0%;
+      padding: 0 10px;
+  }
+  .mat-icon{
+      color: #739F3C;
+      text-align: right;
+      margin-top: 10px;
+      padding-top: 10px;
+  }
+  .ico{
+      text-align: right;
+  }
+  .example-button-row{
+      background-color:whitesmoke;
+      justify-items: center;
+      /* display: inline-block; */
+    }
+    .mat-flat-button {
+      background-color: #739F3C;
+     color: white;
+     margin-left: 50px;
+    
+    }
+    .mat-button{
+      margin-left: 100px;
+    }
+  .check{
+      margin-left: 300px;
+  }
+  
+    /* .er{
+      color: black;
+    } */
+    
+     .button {   /* cancel button */
+      background-color: #739F3C;
+     color: white;
+     margin-left: 100px;
+     margin-right: 1000px;
+     padding: 10px 20px;
+    }
+    .mat-raised-button { /* Delete button */
+      background-color: black;
+     color: white;
+     /* margin-right: 50px; */
+     margin-left: 50px;
+     margin-left: 1000px;
+     padding: 10px 20px;
+    }
+    .mat-flat-button { /* save button */
+      background-color: #739F3C;
+     color: white;
+     padding: 10px 20px;
+     margin-inline-end: auto;
+    
+     /* margin-left: 1050px; */
+    }
+    .mat-stroked-button { /* home button */
+      background-color : #61764B;
+     color: white;
+     padding: 10px 10px;
+   
+     /* margin-left: 400px; */
+    }
+  
